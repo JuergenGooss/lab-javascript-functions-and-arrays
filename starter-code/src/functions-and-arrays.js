@@ -1,5 +1,9 @@
 // Find the maximum
 
+function maxOfTwoNumbers(a, b){
+  return Math.max(a, b);
+}
+
 // Finding Longest Word
 var words = [
   'mystery',
